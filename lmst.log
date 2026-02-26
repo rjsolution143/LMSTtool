@@ -1,0 +1,603 @@
+﻿20260203:161811:6443~1-SmartTool.App[Info]** Starting LM Smart Tool 2.26.0.0 **
+20260203:161813:2221~1-SmartTool.App[Info]** RSD Server Type Production **
+20260203:161822:2184~10-SmartRsd.SRPOperationRest[Info]** Received stationid: 201 and macid: C063CFFCB3F74DB58B99F9CF3839A675 **
+20260203:161822:2184~10-SmartRsd.UserAccount[Info]** Set station description: 201|IN0031|Asia with RSDUniqueId: C063CFFCB3F74DB58B99F9CF3839A675 **
+20260203:161834:5280~10-SmartRsd.SRPOperationRest[Info]** Latest client version from server response: LMST_2.26.0 **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:powertestapk value:C:\ProgramData\Motorola\SmartTool\ApkFiles\PowerTest_2_9_16.apk **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:stabilitytestapk value:C:\ProgramData\Motorola\SmartTool\ApkFiles\StabilityTest_v1.apk **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:aquafoam value:C:\ProgramData\Motorola\SmartTool\ColourFiles\aquafoam.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackonyx value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blackonyx.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:icepalace value:C:\ProgramData\Motorola\SmartTool\ColourFiles\icepalace.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:veriperi value:C:\ProgramData\Motorola\SmartTool\ColourFiles\veriperi.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:odmserverexe value:C:\ProgramData\Motorola\SmartTool\Executables\ODMServer_V5 **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:barberry value:C:\ProgramData\Motorola\SmartTool\ColourFiles\barberry.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:black value:C:\ProgramData\Motorola\SmartTool\ColourFiles\black.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:blue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blue.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:tofu value:C:\ProgramData\Motorola\SmartTool\ColourFiles\tofu.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:sedonasage value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sedonasage.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:mauvechalk value:C:\ProgramData\Motorola\SmartTool\ColourFiles\mauvechalk.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:grapecompote value:C:\ProgramData\Motorola\SmartTool\ColourFiles\grapecompote.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:outerspace value:C:\ProgramData\Motorola\SmartTool\ColourFiles\outerspace.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:balladblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\balladblue.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:vivamagenta value:C:\ProgramData\Motorola\SmartTool\ColourFiles\vivamagenta.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:caneelbay value:C:\ProgramData\Motorola\SmartTool\ColourFiles\caneelbay.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackbeauty value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blackbeauty.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:soothingsea value:C:\ProgramData\Motorola\SmartTool\ColourFiles\soothingsea.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:littleboyblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\littleboyblue.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:ambrosia value:C:\ProgramData\Motorola\SmartTool\ColourFiles\ambrosia.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:coronetblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\coronetblue.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:hydro value:C:\ProgramData\Motorola\SmartTool\ColourFiles\hydro.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:brilliantblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\brilliantblue.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:steelgray value:C:\ProgramData\Motorola\SmartTool\ColourFiles\steelgray.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:sslide value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sslide.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:sgrey value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sgrey.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:sgreen value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sgreen.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:pinkl value:C:\ProgramData\Motorola\SmartTool\ColourFiles\pinkl.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:cblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\cblue.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:lavender value:C:\ProgramData\Motorola\SmartTool\ColourFiles\lavender.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:blueheron value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blueheron.jpg **
+20260203:161842:5261~10-SmartRsd.JsonDriverInfoParser[Info]** key:pumpkin value:C:\ProgramData\Motorola\SmartTool\ColourFiles\pumpkin.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blueb value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blueb.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:tidalteal value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Tidalteal.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:pinkpeacock value:C:\ProgramData\Motorola\SmartTool\ColourFiles\pinkpeacock.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:stardust value:C:\ProgramData\Motorola\SmartTool\ColourFiles\stardust.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:green value:C:\ProgramData\Motorola\SmartTool\ColourFiles\green.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:pumicestone value:C:\ProgramData\Motorola\SmartTool\ColourFiles\pumicestone.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:arabesque value:C:\ProgramData\Motorola\SmartTool\ColourFiles\arabesque.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:steelwool value:C:\ProgramData\Motorola\SmartTool\ColourFiles\steelwool.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:darkestspruce value:C:\ProgramData\Motorola\SmartTool\ColourFiles\darkestspruce.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:fog value:C:\ProgramData\Motorola\SmartTool\ColourFiles\fog.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:dill value:C:\ProgramData\Motorola\SmartTool\ColourFiles\dill.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:navyblazer value:C:\ProgramData\Motorola\SmartTool\ColourFiles\navyblazer.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:peachfuzz value:C:\ProgramData\Motorola\SmartTool\ColourFiles\peachfuzz.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:olivine value:C:\ProgramData\Motorola\SmartTool\ColourFiles\olivine.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:surftheweb value:C:\ProgramData\Motorola\SmartTool\ColourFiles\surftheweb.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:gadgetgray value:C:\ProgramData\Motorola\SmartTool\ColourFiles\gadgetgray.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:jasper value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Jasper.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:grisaille value:C:\ProgramData\Motorola\SmartTool\ColourFiles\grisaille.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:latte value:C:\ProgramData\Motorola\SmartTool\ColourFiles\latte.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:nauticalblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\nauticalblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:poinciana value:C:\ProgramData\Motorola\SmartTool\ColourFiles\poinciana.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:desertsage value:C:\ProgramData\Motorola\SmartTool\ColourFiles\desertsage.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:rosesorbet value:C:\ProgramData\Motorola\SmartTool\ColourFiles\rosesorbet.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:bermuda value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Bermuda.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:charcoal value:C:\ProgramData\Motorola\SmartTool\ColourFiles\charcoal.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:relucent value:C:\ProgramData\Motorola\SmartTool\ColourFiles\relucent.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sky value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sky.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:forestgreen value:C:\ProgramData\Motorola\SmartTool\ColourFiles\forestgreen.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:juniper value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Juniper.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:adeep value:C:\ProgramData\Motorola\SmartTool\ColourFiles\adeep.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:borange value:C:\ProgramData\Motorola\SmartTool\ColourFiles\borange.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sair value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sair.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sbound value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sbound.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:scooter value:C:\ProgramData\Motorola\SmartTool\ColourFiles\scooter.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:tornado value:C:\ProgramData\Motorola\SmartTool\ColourFiles\tornado.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:iguana value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Iguana.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:citadel value:C:\ProgramData\Motorola\SmartTool\ColourFiles\citadel.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:npeony value:C:\ProgramData\Motorola\SmartTool\ColourFiles\npeony.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:clouddancer value:C:\ProgramData\Motorola\SmartTool\ColourFiles\clouddancer.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:cosmic value:C:\ProgramData\Motorola\SmartTool\ColourFiles\cosmic.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:parishilton value:C:\ProgramData\Motorola\SmartTool\ColourFiles\parishilton.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:mochamousse value:C:\ProgramData\Motorola\SmartTool\ColourFiles\MochaMousse.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:amazonite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\amazonite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:gibraltarsea value:C:\ProgramData\Motorola\SmartTool\ColourFiles\gibraltarsea.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:mykonosblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\mykonosblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:plumperfect value:C:\ProgramData\Motorola\SmartTool\ColourFiles\plumperfect.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:shamrock value:C:\ProgramData\Motorola\SmartTool\ColourFiles\shamrock.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:slipstream value:C:\ProgramData\Motorola\SmartTool\ColourFiles\slipstream.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:wedgewood value:C:\ProgramData\Motorola\SmartTool\ColourFiles\wedgewood.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:zephyr value:C:\ProgramData\Motorola\SmartTool\ColourFiles\zephyr.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:dazzlingblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Dazzlingblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:shadow value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Shadow.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sparkinggrape value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Sparkinggrape.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:goldencypress value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Goldencypress.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:spellbound value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Spellbound.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:chrysanthemum value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Chrysanthemum.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:cosmicsky value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Cosmicsky.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackoysre value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Blackoysre.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:graymist value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Graymist.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:almondmilk value:C:\ProgramData\Motorola\SmartTool\ColourFiles\almondmilk.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sangria value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sangria.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:oceancavern value:C:\ProgramData\Motorola\SmartTool\ColourFiles\oceancavern.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:scarab value:C:\ProgramData\Motorola\SmartTool\ColourFiles\scarab.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:mountaintrail value:C:\ProgramData\Motorola\SmartTool\ColourFiles\mountaintrail.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:cabaretpink value:C:\ProgramData\Motorola\SmartTool\ColourFiles\cabaretpink.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:springbud value:C:\ProgramData\Motorola\SmartTool\ColourFiles\springbud.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:lightestsky value:C:\ProgramData\Motorola\SmartTool\ColourFiles\lightestsky.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:deepforest value:C:\ProgramData\Motorola\SmartTool\ColourFiles\deepforest.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:ashleighblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\ashleighblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:cattleyaorchid value:C:\ProgramData\Motorola\SmartTool\ColourFiles\cattleyaorchid.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:dresdenblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\dresdenblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:greenerpastures value:C:\ProgramData\Motorola\SmartTool\ColourFiles\greenerpastures.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:calcite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Calcite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:parfaitpink value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Parfaitpink.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackaqua value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Blackaqua.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sparklinggrape value:C:\ProgramData\Motorola\SmartTool\ColourFiles\sparklinggrape.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:walnut value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Walnut.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackiris value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Blackiris.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:tapestry value:C:\ProgramData\Motorola\SmartTool\ColourFiles\tapestry.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:tendril value:C:\ProgramData\Motorola\SmartTool\ColourFiles\tendril.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:laureloak value:C:\ProgramData\Motorola\SmartTool\ColourFiles\laureloak.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:caviar value:C:\ProgramData\Motorola\SmartTool\ColourFiles\caviar.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:lucentwhite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\lucentwhite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:pinklavender value:C:\ProgramData\Motorola\SmartTool\ColourFiles\pinklavender.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:bluecuracao value:C:\ProgramData\Motorola\SmartTool\ColourFiles\bluecuracao.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:cilantro value:C:\ProgramData\Motorola\SmartTool\ColourFiles\cilantro.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:parachute value:C:\ProgramData\Motorola\SmartTool\ColourFiles\parachute.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:veryberry value:C:\ProgramData\Motorola\SmartTool\ColourFiles\veryberry.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:meteorite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\meteorite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:lilypad value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Lilypad.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:bronzegreen value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Bronzegreen.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:corsair value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Corsair.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:fluidity value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Fluidity.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:pinklemonade value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Pinklemonade.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:regatta value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Regatta.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:eveningblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\eveningblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:purecashmere value:C:\ProgramData\Motorola\SmartTool\ColourFiles\purecashmere.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:frostbite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\frostbite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:carbonblack value:C:\ProgramData\Motorola\SmartTool\ColourFiles\carbonblack.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:darkgray value:C:\ProgramData\Motorola\SmartTool\ColourFiles\darkgray **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:alaskanblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\alaskanblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:bordeaux value:C:\ProgramData\Motorola\SmartTool\ColourFiles\bordeaux.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:tarmac value:C:\ProgramData\Motorola\SmartTool\ColourFiles\tarmac.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:martiniolive value:C:\ProgramData\Motorola\SmartTool\ColourFiles\martiniolive.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:shadedspruce value:C:\ProgramData\Motorola\SmartTool\ColourFiles\shadedspruce.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:arcticseal value:C:\ProgramData\Motorola\SmartTool\ColourFiles\arcticseal.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackolive value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blackolive.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blueatoll value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blueatoll.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:carbon value:C:\ProgramData\Motorola\SmartTool\ColourFiles\carbon.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:overture value:C:\ProgramData\Motorola\SmartTool\ColourFiles\overture.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:lavendermist value:C:\ProgramData\Motorola\SmartTool\ColourFiles\lavendermist.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:nile value:C:\ProgramData\Motorola\SmartTool\ColourFiles\nile.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:coalsmoke value:C:\ProgramData\Motorola\SmartTool\ColourFiles\coalsmoke.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:violetice value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Violetice.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:sportinggreen value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Sportinggreen.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:hematite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Hematite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:brightwhite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Brightwhite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:fifa value:C:\ProgramData\Motorola\SmartTool\ColourFiles\FIFA.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:blackenedblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\blackenedblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:fifa value:C:\ProgramData\Motorola\SmartTool\ColourFiles\fifa.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:lilywhite value:C:\ProgramData\Motorola\SmartTool\ColourFiles\lilywhite.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:springbudfifa value:C:\ProgramData\Motorola\SmartTool\ColourFiles\springbudfifa.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:cocoa value:C:\ProgramData\Motorola\SmartTool\ColourFiles\cocoa.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:orientblue value:C:\ProgramData\Motorola\SmartTool\ColourFiles\orientblue.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:riored value:C:\ProgramData\Motorola\SmartTool\ColourFiles\riored.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:titan value:C:\ProgramData\Motorola\SmartTool\ColourFiles\titan.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:zinfandel value:C:\ProgramData\Motorola\SmartTool\ColourFiles\zinfandel.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:fuchsiared value:C:\ProgramData\Motorola\SmartTool\ColourFiles\fuchsiared.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:impenetrable value:C:\ProgramData\Motorola\SmartTool\ColourFiles\impenetrable.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:stormsea value:C:\ProgramData\Motorola\SmartTool\ColourFiles\stormsea.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:tea value:C:\ProgramData\Motorola\SmartTool\ColourFiles\tea.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:capri value:C:\ProgramData\Motorola\SmartTool\ColourFiles\capri.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:chicorycoffee value:C:\ProgramData\Motorola\SmartTool\ColourFiles\chicorycoffee.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:bluesurf value:C:\ProgramData\Motorola\SmartTool\ColourFiles\BlueSurf.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:countryair value:C:\ProgramData\Motorola\SmartTool\ColourFiles\CountryAir.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:silhouette value:C:\ProgramData\Motorola\SmartTool\ColourFiles\Silhouette.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:africanviolet value:C:\ProgramData\Motorola\SmartTool\ColourFiles\AfricanViolet.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:mountainview value:C:\ProgramData\Motorola\SmartTool\ColourFiles\MountainView.jpg **
+20260203:161842:5417~10-SmartRsd.JsonDriverInfoParser[Info]** key:silhouettefifa value:C:\ProgramData\Motorola\SmartTool\ColourFiles\SilhouetteFIFA.jpg **
+20260203:161843:6196~10-SmartRsd.FileDownloader[Info]** Downloading file C:\ProgramData\Motorola\SmartTool\ModelInfo\XT2553-1-DS_V1.json - try 1 **
+20260203:161844:8068~10-SmartRsd.FileDownloader[Info]** Downloading file C:\ProgramData\Motorola\SmartTool\DevConnImgFiles\Sabahl_Fastboot_Mode_PT.png - try 1 **
+20260203:161845:9160~10-SmartRsd.FileDownloader[Info]** Downloading file C:\ProgramData\Motorola\SmartTool\ColourFiles\Tapestry.jpg - try 1 **
+20260203:161846:8064~10-SmartRsd.FileDownloader[Info]** Downloading file C:\ProgramData\Motorola\SmartTool\ColourFiles\Tendril.jpg - try 1 **
+20260203:161847:6968~10-SmartRsd.FileDownloader[Info]** Downloading file C:\ProgramData\Motorola\SmartTool\ColourFiles\darkgray.jpg - try 1 **
+20260203:161848:6497~10-SmartRsd.FileDownloader[Info]** Downloading file C:\ProgramData\Motorola\SmartTool\ColourFiles\fifa.jpg - try 1 **
+20260203:161849:5401~10-SmartRsd.FileDownloader[Error]** Failed to rename file C:\ProgramData\Motorola\SmartTool\ColourFiles\fifa.jpg.tmp to C:\ProgramData\Motorola\SmartTool\ColourFiles\fifa.jpg. ErrorMsg: Cannot create a file when that file already exists.
+ **
+20260203:161849:5557~10-SmartDevice.DeviceManager[Info]** kill adb **
+20260203:161909:0980~10-SmartRsd.UserAccount[Info]** Supported OS version 'Windows 10' found **
+20260203:161909:0980~10-SmartRsd.UserAccount[Info]** Finished update process **
+20260203:161909:1449~10-SmartRsd.Rsd[Info]** Finished full update process **
+20260203:161909:8010~1-SmartRsd.SRPOperationRest[Info]** Raw response:
+{"status":"success","messages":[{"msgid":"83","translated_msgs":{"ja_url":"","es_url":"","pt":"Tempo planejado de inatividade de 2026/7/fev/14:00 UTC até 2026/8/fev/00:00 UTC, a ferramenta de serviço não está disponível.","it_url":"","en":"Planned downtime from 2026/Feb/7th14:00 UTC to 2026/Feb/8th 00:00 UTC, service tool is not available. ","it":"Tempo di inattività programmato dal 2026/Feb/7th14:00 UTC al 2026/Feb/ 8o 00:00 UTC UTC, lo strumento di servizio non è disponibile.","zh_url":"","en_url":"","es":"Tiempo de inactividad planificado de 2026/Feb/7th14:00 UTC a 2026/Feb/8th 00:00 UTC, la herramienta de servicio no está disponible.","zh":"计划停机时间为2026年2月7日22:00 北京时间至2026年2月8日08:00 北京时间，服务工具不可用。","pl_url":"","ja":"2026年2月7日14:00 UTCから2026年2月8日00:00 UTCまで予定された停止時間中、サービスツールは利用できません。","pt_url":"","pl":"Planowany czas przestoju od 2026/lutego/7 UTC 14:00 UTC do 2026/lutego/00:00 UTC, narzędzie serwisowe nie jest dostępne."},"datetime":"2026-01-22 02:48:15","type":"Planned-Downtime","start_time":"2026-02-07 08:00:00","end_time":"2026-02-07 18:00:00","title":"Server Downtime"}]} **
+20260203:161910:3165~19-SmartRsd.SRPOperationRest[Info]** Raw response:
+{"status":"success","messages":[{"msgid":"83","translated_msgs":{"ja_url":"","es_url":"","pt":"Tempo planejado de inatividade de 2026/7/fev/14:00 UTC até 2026/8/fev/00:00 UTC, a ferramenta de serviço não está disponível.","it_url":"","en":"Planned downtime from 2026/Feb/7th14:00 UTC to 2026/Feb/8th 00:00 UTC, service tool is not available. ","it":"Tempo di inattività programmato dal 2026/Feb/7th14:00 UTC al 2026/Feb/ 8o 00:00 UTC UTC, lo strumento di servizio non è disponibile.","zh_url":"","en_url":"","es":"Tiempo de inactividad planificado de 2026/Feb/7th14:00 UTC a 2026/Feb/8th 00:00 UTC, la herramienta de servicio no está disponible.","zh":"计划停机时间为2026年2月7日22:00 北京时间至2026年2月8日08:00 北京时间，服务工具不可用。","pl_url":"","ja":"2026年2月7日14:00 UTCから2026年2月8日00:00 UTCまで予定された停止時間中、サービスツールは利用できません。","pt_url":"","pl":"Planowany czas przestoju od 2026/lutego/7 UTC 14:00 UTC do 2026/lutego/00:00 UTC, narzędzie serwisowe nie jest dostępne."},"datetime":"2026-01-22 02:48:15","type":"Planned-Downtime","start_time":"2026-02-07 08:00:00","end_time":"2026-02-07 18:00:00","title":"Server Downtime"}]} **
+20260203:161929:5129~49-SmartDevice.UseCaseRunner[Info]** Running LMST_Detect use case **
+20260203:161929:7004~53-SmartDevice.Recipe[Info]** Running step Read Device Properties in Fastboot (ReadPropertiesInFastboot) **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read SKU in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read TrackId in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read IMEI in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read roCarrier in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FsgVersion in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FlexId in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read fingerPrint in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read BlurVersion in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read Flash Size in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read RAM Size in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory date in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read secure in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read securestate in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read cid in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory-modes in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read battid in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read channelid in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read qe in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read frp-state in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read hwrev in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read pcb-part-no in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read current-slot in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read uid in fastboot **
+20260203:161950:7285~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read iswarrantyvoid in fastboot **
+20260203:162001:2240~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read dualsim in fastboot oem hw **
+20260203:162011:7372~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read esim in fastboot oem hw **
+20260203:162011:7372~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read eid in fastboot **
+20260203:162011:7372~53-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read oem hw frontcolor in fastboot **
+20260203:162011:7684~53-SmartUtil.ResultLogger[Info]** Read Device Properties in Fastboot result Passed **
+20260203:162011:7840~53-SmartDevice.Recipe[Info]** Running step Check MDS Order (CheckMdsOrder) **
+20260203:162013:1743~53-SmartUtil.ResultLogger[Info]** Check MDS Order result Passed **
+20260203:162013:1743~53-SmartDevice.Recipe[Info]** Running step Check Zero Touch Device For Detection Scenario (CheckZeroTouch) **
+20260203:162014:3994~53-SmartUtil.ResultLogger[Info]** Check Zero Touch Device For Detection Scenario result Passed **
+20260203:162014:3994~53-SmartDevice.Recipe[Info]** Running step Get OTA Channel ID (CheckChannelIdInfo) **
+20260203:162015:2742~53-SmartUtil.ResultLogger[Info]** Get OTA Channel ID result Passed **
+20260203:162015:2742~53-SmartDevice.Recipe[Info]** Running step Verify Device Type (VerifyDeviceType) **
+20260203:162015:2898~53-SmartUtil.ResultLogger[Info]** Verify Device Type result Passed **
+20260203:162015:2898~53-SmartDevice.Recipe[Info]** Running step Detect Device Model using Sale Model (DetectModelIBase) **
+20260203:162017:2737~53-SmartRsd.Rsd[Info]** Detected Model:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162017:2737~53-SmartDevice.Steps.DetectModelIBase[Info]** Detected modelId: XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162017:2737~53-SmartUtil.ResultLogger[Info]** Detect Device Model using Sale Model result Passed **
+20260203:162017:2893~53-SmartUtil.ResultLogger[Info]** Detect Device Model in Fastboot result Skipped **
+20260203:162017:2893~53-SmartUtil.ResultLogger[Info]** LMST_Detect result Passed **
+20260203:162017:3050~53-SmartDevice.Recipe[Info]** Finished Recipe LMST_FastbootDetect_V7 with result Passed for device ZA222Z339Q **
+20260203:162017:3050~53-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Detect... **
+20260203:162017:3050~53-SmartDevice.UseCaseRunner[Info]** Running LMST_Read use case **
+20260203:162017:3050~53-SmartDevice.RsdLogger[Info]** Upgrade log opened for ZA222Z339Q **
+20260203:162017:3206~53-SmartDevice.XmlLogger[Info]** XMLLog opened for ZA222Z339Q **
+20260203:162017:3206~6-SmartDevice.Recipe[Info]** Running step Read Device Properties in Fastboot (ReadPropertiesInFastboot) **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read SKU in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read TrackId in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read IMEI in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read roCarrier in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FsgVersion in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FlexId in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read fingerPrint in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read BlurVersion in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read Flash Size in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read RAM Size in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory date in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read secure in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read securestate in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read cid in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory-modes in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read battid in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read channelid in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read qe in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read frp-state in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read hwrev in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read pcb-part-no in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read current-slot in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read uid in fastboot **
+20260203:162028:7398~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read iswarrantyvoid in fastboot **
+20260203:162031:8797~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read dualsim in fastboot oem hw **
+20260203:162035:0196~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read esim in fastboot oem hw **
+20260203:162035:0196~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read eid in fastboot **
+20260203:162035:0196~6-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read oem hw frontcolor in fastboot **
+20260203:162035:0196~6-SmartUtil.ResultLogger[Info]** Read Device Properties in Fastboot result Passed **
+20260203:162035:0664~6-SmartDevice.Recipe[Info]** Running step Incoming SN Warranty Check (WarrantyCheck) **
+20260203:162035:1133~6-SmartDevice.Steps.WarrantyCheck[Info]** Checking warranty status for DeviceSerialNumber ZA222Z339Q **
+20260203:162036:6285~6-SmartDevice.Steps.WarrantyCheck[Info]** Found SN 'ZA222Z339Q' **
+20260203:162036:6285~6-SmartDevice.Steps.WarrantyCheck[Info]** Found DeviceSerialNumberDual SN '358261420773745' **
+20260203:162036:6285~6-SmartUtil.ResultLogger[Info]** Incoming SN Warranty Check result Passed **
+20260203:162036:6285~6-SmartDevice.Recipe[Info]** Running step Device Info Update (DeviceInfoUpdate) **
+20260203:162036:6598~6-SmartRsd.Rsd[Info]** GetValue use modelId:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162036:6754~6-SmartDevice.Steps.DeviceInfoUpdate[Info]** DeviceSerialNumber is already in the database **
+20260203:162036:6754~6-SmartUtil.ResultLogger[Info]** Device Info Update result Skipped **
+20260203:162036:6754~6-SmartUtil.ResultLogger[Info]** LMST_Read result Passed **
+20260203:162036:7691~6-SmartDevice.RsdLogger[Info]** Upgrade log closed for ZA222Z339Q **
+20260203:162036:7691~6-SmartDevice.MqsLogger[Info]** MQS log closed for ZA222Z339Q **
+20260203:162036:7691~6-SmartDevice.XmlLogger[Info]** XML log closed for ZA222Z339Q **
+20260203:162036:7691~6-SmartDevice.Recipe[Info]** Finished Recipe LMST_FastbootRead with result Passed for device ZA222Z339Q **
+20260203:162036:7691~6-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Read... **
+20260203:162037:6439~49-SupportUseCases[Info]** model:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR
+ cases:,LMST_Upgrade,LMST_CIT,LMST_Read,LMST_Force_Flash,LMST_Kill_Switch,LMST_Reflash,LMST_Battery_Link_Group,LMST_Calibration **
+20260203:162038:3781~56-SmartRsd.RsdLogger[Info]** Upgrade log LMST_358261420773737_20260203162036-0001_Log.json uploaded successfully **
+20260203:162043:2207~21-e.Device[Info]** ,ZA222Z339Q **
+20260203:162043:2207~21-target[Info]** ,ZA222Z339Q,False **
+20260203:162043:2207~21-targetkey[Info]** ZA222Z339Q **
+20260203:162043:2207~21-Devices.Counti:[Info]** 1 **
+20260203:162043:2207~1-Devices.Counto:[Info]** 0 **
+20260203:162045:5952~50-SmartDevice.UseCaseRunner[Info]** Running LMST_Detect use case **
+20260203:162045:5952~17-SmartDevice.Recipe[Info]** Running step Read Device Properties in Fastboot (ReadPropertiesInFastboot) **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read SKU in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read TrackId in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read IMEI in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read roCarrier in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FsgVersion in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FlexId in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read fingerPrint in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read BlurVersion in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read Flash Size in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read RAM Size in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory date in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read secure in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read securestate in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read cid in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory-modes in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read battid in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read channelid in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read qe in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read frp-state in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read hwrev in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read pcb-part-no in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read current-slot in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read uid in fastboot **
+20260203:162106:6215~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read iswarrantyvoid in fastboot **
+20260203:162117:1332~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read dualsim in fastboot oem hw **
+20260203:162127:6463~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read esim in fastboot oem hw **
+20260203:162127:6463~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read eid in fastboot **
+20260203:162127:6463~17-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read oem hw frontcolor in fastboot **
+20260203:162127:6463~17-SmartUtil.ResultLogger[Info]** Read Device Properties in Fastboot result Passed **
+20260203:162127:6463~17-SmartDevice.Recipe[Info]** Running step Check MDS Order (CheckMdsOrder) **
+20260203:162128:3961~17-SmartUtil.ResultLogger[Info]** Check MDS Order result Passed **
+20260203:162128:3961~17-SmartDevice.Recipe[Info]** Running step Check Zero Touch Device For Detection Scenario (CheckZeroTouch) **
+20260203:162129:5677~17-SmartUtil.ResultLogger[Info]** Check Zero Touch Device For Detection Scenario result Passed **
+20260203:162129:5677~17-SmartDevice.Recipe[Info]** Running step Get OTA Channel ID (CheckChannelIdInfo) **
+20260203:162130:5363~17-SmartUtil.ResultLogger[Info]** Get OTA Channel ID result Passed **
+20260203:162130:5363~17-SmartDevice.Recipe[Info]** Running step Verify Device Type (VerifyDeviceType) **
+20260203:162130:5363~17-SmartUtil.ResultLogger[Info]** Verify Device Type result Passed **
+20260203:162130:5363~17-SmartDevice.Recipe[Info]** Running step Detect Device Model using Sale Model (DetectModelIBase) **
+20260203:162132:1453~17-SmartRsd.Rsd[Info]** Detected Model:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162132:1453~17-SmartDevice.Steps.DetectModelIBase[Info]** Detected modelId: XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162132:1453~17-SmartUtil.ResultLogger[Info]** Detect Device Model using Sale Model result Passed **
+20260203:162132:1453~17-SmartUtil.ResultLogger[Info]** Detect Device Model in Fastboot result Skipped **
+20260203:162132:1453~17-SmartUtil.ResultLogger[Info]** LMST_Detect result Passed **
+20260203:162132:1453~17-SmartDevice.Recipe[Info]** Finished Recipe LMST_FastbootDetect_V7 with result Passed for device ZA222Z339Q **
+20260203:162132:1453~17-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Detect... **
+20260203:162132:1453~17-SmartDevice.UseCaseRunner[Info]** Running LMST_Read use case **
+20260203:162132:1453~17-SmartDevice.RsdLogger[Info]** Upgrade log opened for ZA222Z339Q **
+20260203:162132:1453~17-SmartDevice.XmlLogger[Info]** XMLLog opened for ZA222Z339Q **
+20260203:162132:1453~56-SmartDevice.Recipe[Info]** Running step Read Device Properties in Fastboot (ReadPropertiesInFastboot) **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read SKU in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read TrackId in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read IMEI in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read roCarrier in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FsgVersion in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FlexId in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read fingerPrint in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read BlurVersion in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read Flash Size in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read RAM Size in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory date in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read secure in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read securestate in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read cid in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read factory-modes in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read battid in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read channelid in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read qe in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read frp-state in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read hwrev in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read pcb-part-no in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read current-slot in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read uid in fastboot **
+20260203:162150:4847~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read iswarrantyvoid in fastboot **
+20260203:162153:6246~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read dualsim in fastboot oem hw **
+20260203:162156:7645~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read esim in fastboot oem hw **
+20260203:162156:7645~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read eid in fastboot **
+20260203:162156:7645~56-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read oem hw frontcolor in fastboot **
+20260203:162156:7645~56-SmartUtil.ResultLogger[Info]** Read Device Properties in Fastboot result Passed **
+20260203:162156:7645~56-SmartDevice.Recipe[Info]** Running step Incoming SN Warranty Check (WarrantyCheck) **
+20260203:162156:7645~56-SmartDevice.Steps.WarrantyCheck[Info]** Checking warranty status for DeviceSerialNumber ZA222Z339Q **
+20260203:162158:2797~56-SmartDevice.Steps.WarrantyCheck[Info]** Found SN 'ZA222Z339Q' **
+20260203:162158:2797~56-SmartDevice.Steps.WarrantyCheck[Info]** Found DeviceSerialNumberDual SN '358261420773745' **
+20260203:162158:2797~56-SmartUtil.ResultLogger[Info]** Incoming SN Warranty Check result Passed **
+20260203:162158:2797~56-SmartDevice.Recipe[Info]** Running step Device Info Update (DeviceInfoUpdate) **
+20260203:162158:2797~56-SmartRsd.Rsd[Info]** GetValue use modelId:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162158:2797~56-SmartDevice.Steps.DeviceInfoUpdate[Info]** DeviceSerialNumber is already in the database **
+20260203:162158:2797~56-SmartUtil.ResultLogger[Info]** Device Info Update result Skipped **
+20260203:162158:2797~56-SmartUtil.ResultLogger[Info]** LMST_Read result Passed **
+20260203:162158:3110~56-SmartDevice.RsdLogger[Info]** Upgrade log closed for ZA222Z339Q **
+20260203:162158:3266~56-SmartDevice.MqsLogger[Info]** MQS log closed for ZA222Z339Q **
+20260203:162158:3266~56-SmartDevice.XmlLogger[Info]** XML log closed for ZA222Z339Q **
+20260203:162158:3266~56-SmartDevice.Recipe[Info]** Finished Recipe LMST_FastbootRead with result Passed for device ZA222Z339Q **
+20260203:162158:3266~56-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Read... **
+20260203:162158:7015~50-SupportUseCases[Info]** model:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR
+ cases:,LMST_Upgrade,LMST_CIT,LMST_Read,LMST_Force_Flash,LMST_Kill_Switch,LMST_Reflash,LMST_Battery_Link_Group,LMST_Calibration **
+20260203:162159:9044~63-SmartRsd.RsdLogger[Info]** Upgrade log LMST_358261420773737_20260203162158-0002_Log.json uploaded successfully **
+20260203:162204:1065~21-e.Device[Info]** ,ZA222Z339Q **
+20260203:162204:1065~21-target[Info]** ,ZA222Z339Q,False **
+20260203:162204:1065~21-targetkey[Info]** ZA222Z339Q **
+20260203:162204:1065~21-Devices.Counti:[Info]** 1 **
+20260203:162204:1065~1-Devices.Counto:[Info]** 0 **
+20260203:162213:5730~50-SmartDevice.UseCaseRunner[Info]** Running LMST_Detect use case **
+20260203:162213:5730~60-SmartDevice.Recipe[Info]** Running step Read Device Properties in Fastboot (ReadPropertiesInFastboot) **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read SKU: XT2427-3 from element: sku **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read TrackId: ZA222Z339Q **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read imei: 358261420773737 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read imei2: 358261420773745 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read roCarrier: retin **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read FsgVersion: MALMO_PVT_INDIAPDSDS_CUST **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read FlexId: M6375_HI434_11.87.01.51R **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read fingerPrint: motorola/malmo_g/malmo:15/V1UOS35H.74-16-4-9/132c31-27a184:user/release-keys **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read FlashId: V1UOS35H.74-16-4-9 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read BlurVersion in fastboot **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read Flash Size: 128GB **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read RAM Size: 8GB **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read factory date: 06-13-2025 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read secure: yes **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read securestate: oem_locked **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read cid: 0x0032 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read factory-modes: disabled **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read battid in fastboot **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read channelid: 0xc0 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read qe in fastboot **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read frp-state: protected (367) **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read hwrev: PVT **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read pcb-part-no: SB28E63245 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read current-slot: a **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read uid: A6117C07001A90E1 **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read iswarrantyvoid: no **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read dualsim: true from properties **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read esim: false from properties **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read eid in fastboot **
+20260203:162232:5930~60-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read frontcolor: olivine from properties **
+20260203:162232:5930~60-SmartUtil.ResultLogger[Info]** Read Device Properties in Fastboot result Passed **
+20260203:162232:5930~60-SmartDevice.Recipe[Info]** Running step Check MDS Order (CheckMdsOrder) **
+20260203:162233:3428~60-SmartUtil.ResultLogger[Info]** Check MDS Order result Passed **
+20260203:162233:3428~60-SmartDevice.Recipe[Info]** Running step Check Zero Touch Device For Detection Scenario (CheckZeroTouch) **
+20260203:162234:5300~60-SmartUtil.ResultLogger[Info]** Check Zero Touch Device For Detection Scenario result Passed **
+20260203:162234:5300~60-SmartDevice.Recipe[Info]** Running step Get OTA Channel ID (CheckChannelIdInfo) **
+20260203:162235:3736~60-SmartUtil.ResultLogger[Info]** Get OTA Channel ID result Passed **
+20260203:162235:3736~60-SmartDevice.Recipe[Info]** Running step Verify Device Type (VerifyDeviceType) **
+20260203:162235:3736~60-SmartUtil.ResultLogger[Info]** Verify Device Type result Passed **
+20260203:162235:3736~60-SmartDevice.Recipe[Info]** Running step Detect Device Model using Sale Model (DetectModelIBase) **
+20260203:162236:8576~60-SmartRsd.Rsd[Info]** Detected Model:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162236:8576~60-SmartDevice.Steps.DetectModelIBase[Info]** Detected modelId: XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162236:8576~60-SmartUtil.ResultLogger[Info]** Detect Device Model using Sale Model result Passed **
+20260203:162236:8576~60-SmartUtil.ResultLogger[Info]** Detect Device Model in Fastboot result Skipped **
+20260203:162236:8576~60-SmartUtil.ResultLogger[Info]** LMST_Detect result Passed **
+20260203:162236:8576~60-SmartDevice.Recipe[Info]** Finished Recipe LMST_FastbootDetect_V7 with result Passed for device ZA222Z339Q **
+20260203:162236:8576~60-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Detect... **
+20260203:162236:8576~60-SmartDevice.UseCaseRunner[Info]** Running LMST_Read use case **
+20260203:162236:8576~60-SmartDevice.RsdLogger[Info]** Upgrade log opened for ZA222Z339Q **
+20260203:162236:8576~60-SmartDevice.XmlLogger[Info]** XMLLog opened for ZA222Z339Q **
+20260203:162236:8576~57-SmartDevice.Recipe[Info]** Running step Read Device Properties in Fastboot (ReadPropertiesInFastboot) **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read SKU in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read TrackId: ZA222Z339Q **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read imei: 358261420773737 **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read imei2: 358261420773745 **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read roCarrier in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FsgVersion in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read FlexId in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read fingerPrint in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read BlurVersion in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read Flash Size: 128GB **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read RAM Size: 8GB **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read factory date: 06-13-2025 **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read secure: yes **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read securestate: oem_locked **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read cid: 0x0032 **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read factory-modes: disabled **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read battid in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read channelid: 0xc0 **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read qe in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read frp-state in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read hwrev: PVT **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read pcb-part-no in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read current-slot in fastboot **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read uid: A6117C07001A90E1 **
+20260203:162301:8816~57-SmartDevice.Steps.ReadPropertiesInFastboot[Info]** Read iswarrantyvoid: no **
+20260203:162312:3948~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read dualsim in fastboot oem hw **
+20260203:162322:9062~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read esim in fastboot oem hw **
+20260203:162322:9062~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read eid in fastboot **
+20260203:162322:9062~57-SmartDevice.Steps.ReadPropertiesInFastboot[Error]** Failed to read oem hw frontcolor in fastboot **
+20260203:162322:9062~57-SmartUtil.ResultLogger[Info]** Read Device Properties in Fastboot result Passed **
+20260203:162322:9062~57-SmartDevice.Recipe[Info]** Running step Incoming SN Warranty Check (WarrantyCheck) **
+20260203:162322:9062~57-SmartDevice.Steps.WarrantyCheck[Info]** Checking warranty status for DeviceSerialNumber 358261420773737 **
+20260203:162324:4839~57-SmartDevice.Steps.WarrantyCheck[Info]** Found SN '358261420773737' **
+20260203:162324:4839~57-SmartDevice.Steps.WarrantyCheck[Info]** Found DeviceSerialNumberDual SN '358261420773745' **
+20260203:162324:4839~57-SmartUtil.ResultLogger[Info]** Incoming SN Warranty Check result Passed **
+20260203:162324:4839~57-SmartDevice.Recipe[Info]** Running step Device Info Update (DeviceInfoUpdate) **
+20260203:162324:4839~57-SmartRsd.Rsd[Info]** GetValue use modelId:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162324:4839~57-SmartDevice.Steps.DeviceInfoUpdate[Info]** DeviceSerialNumber is already in the database **
+20260203:162324:4839~57-SmartUtil.ResultLogger[Info]** Device Info Update result Skipped **
+20260203:162324:4996~57-SmartUtil.ResultLogger[Info]** LMST_Read result Passed **
+20260203:162324:5152~57-SmartDevice.RsdLogger[Info]** Upgrade log closed for ZA222Z339Q **
+20260203:162324:5308~57-SmartDevice.MqsLogger[Info]** MQS log closed for ZA222Z339Q **
+20260203:162324:5308~57-SmartDevice.XmlLogger[Info]** XML log closed for ZA222Z339Q **
+20260203:162324:5308~57-SmartDevice.Recipe[Info]** Finished Recipe LMST_FastbootRead with result Passed for device ZA222Z339Q **
+20260203:162324:5308~57-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Read... **
+20260203:162324:6402~50-SupportUseCases[Info]** model:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR
+ cases:,LMST_Upgrade,LMST_CIT,LMST_Read,LMST_Force_Flash,LMST_Kill_Switch,LMST_Reflash,LMST_Battery_Link_Group,LMST_Calibration **
+20260203:162326:1086~52-SmartRsd.RsdLogger[Info]** Upgrade log LMST_358261420773737_20260203162324-0003_Log.json uploaded successfully **
+20260203:162328:3054~9-SmartDevice.UseCaseRunner[Info]** Running LMST_Kill_Switch use case **
+20260203:162328:3537~9-SmartDevice.RsdLogger[Info]** Upgrade log opened for ZA222Z339Q **
+20260203:162328:3537~9-SmartDevice.XmlLogger[Info]** XMLLog opened for ZA222Z339Q **
+20260203:162329:6971~52-SmartDevice.Recipe[Info]** Running step Check Local Configuration (ConfigurationCheck) **
+20260203:162329:8377~52-SmartDevice.Steps.ConfigurationCheck[Error]** REMOTE CHECK FAILED **
+20260203:162329:8377~52-SmartUtil.ResultLogger[Info]** Check Local Configuration result Failed **
+20260203:162329:8690~52-SmartRsd.Rsd[Info]** GetValue use modelId:XT2427-3-DS/PB2B0000IN|Retail:India:5G_NR **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** Found Troubleshooting info **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** TroubleshootingInfo
+    Category: 
+    Score: 668
+    SubCategory: 
+    Title: No data returned
+    URL: https://rsd.motorola.com/cs/tguides?id=101_103&lang=xx
+ **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** Found Troubleshooting info **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** TroubleshootingInfo
+    Category: 
+    Score: 646
+    SubCategory: 
+    Title: Device in Snapshot state
+    URL: https://rsd.motorola.com/cs/tguides?id=102_106&lang=xx
+ **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** Found Troubleshooting info **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** TroubleshootingInfo
+    Category: 
+    Score: 589
+    SubCategory: 
+    Title: Invalid response code 5070
+    URL: https://rsd.motorola.com/cs/tguides?id=104_136&lang=xx
+ **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** Found Troubleshooting info **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** TroubleshootingInfo
+    Category: 
+    Score: 587
+    SubCategory: 
+    Title: Masc request count exceeds daily limit
+    URL: https://rsd.motorola.com/cs/tguides?id=104_138&lang=xx
+ **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** Found Troubleshooting info **
+20260203:162329:9158~52-SmartUtil.Troubleshooting[Info]** TroubleshootingInfo
+    Category: 
+    Score: 586
+    SubCategory: 
+    Title: Phone Communication breakage
+    URL: https://rsd.motorola.com/cs/tguides?id=103_109&lang=xx
+ **
+20260203:162329:9158~52-SmartUtil.ResultLogger[Info]** Read Device Info result Canceled **
+20260203:162329:9314~52-SmartUtil.ResultLogger[Info]** Verify LMST minimum version 2.24.0 result Canceled **
+20260203:162329:9314~52-SmartUtil.ResultLogger[Info]** Update .Net Version result Canceled **
+20260203:162329:9471~52-SmartUtil.ResultLogger[Info]** Install Microsoft C++ 2013 x86 result Canceled **
+20260203:162329:9471~52-SmartUtil.ResultLogger[Info]** Verify Motorola PC Driver Installed result Canceled **
+20260203:162329:9627~52-SmartUtil.ResultLogger[Info]** Validate eToken result Canceled **
+20260203:162329:9783~52-SmartUtil.ResultLogger[Info]** Check eToken Registration result Canceled **
+20260203:162329:9939~52-SmartUtil.ResultLogger[Info]** Load Channel ID result Canceled **
+20260203:162330:0096~52-SmartUtil.ResultLogger[Info]** Read Device Mode result Canceled **
+20260203:162330:0252~52-SmartUtil.ResultLogger[Info]** Scan TCMD Port result Canceled **
+20260203:162330:0408~52-SmartUtil.ResultLogger[Info]** Connect to TCMD Interface Pre result Canceled **
+20260203:162330:0564~52-SmartUtil.ResultLogger[Info]** Switch to Fastboot Mode P2K result Canceled **
+20260203:162330:0720~52-SmartUtil.ResultLogger[Info]** Connect to Android Interface result Canceled **
+20260203:162330:1033~52-SmartUtil.ResultLogger[Info]** Switch to Fastboot Mode result Canceled **
+20260203:162330:1033~52-SmartUtil.ResultLogger[Info]** Wait for Fastboot Mode result Canceled **
+20260203:162330:1189~52-SmartUtil.ResultLogger[Info]** Fastboot Read IMEI result Canceled **
+20260203:162330:1345~52-SmartUtil.ResultLogger[Info]** Verify Factory Auth Mode result Canceled **
+20260203:162330:1345~52-SmartUtil.ResultLogger[Info]** Verify IMEI not default Pre result Canceled **
+20260203:162330:1501~52-SmartUtil.ResultLogger[Info]** Validate IMEI is not default Pre result Canceled **
+20260203:162330:1501~52-SmartUtil.ResultLogger[Info]** Fastboot Auth CID result Canceled **
+20260203:162330:1501~52-SmartUtil.ResultLogger[Info]** Erase FRP result Canceled **
+20260203:162330:1658~52-SmartUtil.ResultLogger[Info]** Erase FDR result Canceled **
+20260203:162330:1970~52-SmartUtil.ResultLogger[Info]** OTA Fail run Reflash to fix result Canceled **
+20260203:162330:1970~52-SmartUtil.ResultLogger[Info]** Erase User Data result Canceled **
+20260203:162330:2126~52-SmartUtil.ResultLogger[Info]** Erase METADATA result Canceled **
+20260203:162330:2283~52-SmartUtil.ResultLogger[Info]** Erase APDP result Canceled **
+20260203:162330:2439~52-SmartUtil.ResultLogger[Info]** Erase APDPB result Canceled **
+20260203:162330:2595~52-SmartUtil.ResultLogger[Info]** Erase Cache result Canceled **
+20260203:162330:2751~52-SmartUtil.ResultLogger[Info]** Erase ModemSt1 result Canceled **
+20260203:162330:2751~52-SmartUtil.ResultLogger[Info]** Erase ModemSt2 result Canceled **
+20260203:162330:2751~52-SmartUtil.ResultLogger[Info]** Fastboot OEM FB Mode Clear result Canceled **
+20260203:162330:2907~52-SmartUtil.ResultLogger[Info]** Fastboot Clear Boot Mode result Canceled **
+20260203:162330:2907~52-SmartUtil.ResultLogger[Info]** Fastboot Reboot for User CID result Canceled **
+20260203:162330:2907~52-SmartUtil.ResultLogger[Info]** Program Bootloader CID via Fastboot result Skipped **
+20260203:162330:3064~52-SmartUtil.ResultLogger[Info]** Fastboot Oem Config Bootmode Factory result Canceled **
+20260203:162330:3376~52-SmartUtil.ResultLogger[Info]** Fastboot Reboot result Canceled **
+20260203:162330:3532~52-SmartUtil.ResultLogger[Info]** Wait 50s for Device Power Up result Canceled **
+20260203:162330:3688~52-SmartUtil.ResultLogger[Info]** Wait for Device Connection result Canceled **
+20260203:162330:3845~52-SmartUtil.ResultLogger[Info]** Connect to TCMD Interface result Canceled **
+20260203:162330:4001~52-SmartUtil.ResultLogger[Info]** Program Customer CID result Canceled **
+20260203:162330:4157~52-SmartUtil.ResultLogger[Info]** Clear Factory Mode result Skipped **
+20260203:162330:4313~52-SmartUtil.ResultLogger[Info]** Erase Boot Mode result Skipped **
+20260203:162330:4470~52-SmartUtil.ResultLogger[Info]** Verify Factory Boot Mode Cleared result Skipped **
+20260203:162330:4626~52-SmartUtil.ResultLogger[Info]** Disconnect from TCMD Interface result Canceled **
+20260203:162330:4938~52-SmartUtil.ResultLogger[Info]** Validate IMEI is not default result Canceled **
+20260203:162330:4938~52-SmartUtil.ResultLogger[Info]** LMST_Kill_Switch result Quit **
+20260203:162330:5094~52-SmartDevice.RsdLogger[Info]** Upgrade log closed for ZA222Z339Q **
+20260203:162330:5407~52-SmartDevice.MqsLogger[Info]** MQS log closed for ZA222Z339Q **
+20260203:162330:5407~52-SmartDevice.XmlLogger[Info]** XML log closed for ZA222Z339Q **
+20260203:162330:5407~52-SmartDevice.Recipe[Info]** Finished Recipe KillSwitch_Moto_IMEI_CID_AndroidR with result Quit for device ZA222Z339Q **
+20260203:162330:5407~52-SmartDevice.Recipe[Info]** Check need to generate error report for LMST_Kill_Switch... **
+20260203:162330:5407~52-SmartDevice.Recipe[Info]** Recipe done to generate error report... **
+20260203:162332:1184~13-SmartRsd.RsdLogger[Info]** Upgrade log LMST_358261420773737_20260203162330-0004_Log.json uploaded successfully **
+20260203:162333:9934~15-SmartRsd.Rsd[Info]** Mqs log uploaded successfully **
