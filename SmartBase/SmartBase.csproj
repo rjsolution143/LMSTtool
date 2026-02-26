@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>SmartBase</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net48</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="ISmart" />
+    <Reference Include="AuthenticodeExaminer" />
+    <Reference Include="System.Core">
+      <HintPath>../../../../usr/share/dotnet/shared/Microsoft.NETCore.App/6.0.25/System.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
